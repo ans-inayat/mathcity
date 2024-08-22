@@ -28,6 +28,7 @@ The script does the following:
 3. **Make the Script Executable**:
   ```bash
    chmod +x mathcity.sh
+
 4. **Run the Script**:
-  ```bash
+   ```bash
    ./mathcity.sh
