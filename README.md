@@ -1,26 +1,33 @@
-- 👋 Hi, I’m @anas khan
-- 👀 I’m interested in white-hat hacking...
-- 🌱 I’m currently learning HTML+JavaScript+python...
-- 💻 I am a software engineer...
+# Arithmetic Operations Script
 
-<p align="center">
-  <a href="https://chat.whatsapp.com/KVjHxUYOJlaKi6EquDUEAK" target="_blank"><img src="https://img.shields.io/badge/join-group-green"></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-technical--xl-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-</p>
+Welcome to the Arithmetic Operations Script project!
 
+This project features a Bash script that performs basic arithmetic operations such as addition, subtraction, multiplication, division, modulus, and exponentiation. It's a simple yet effective tool for demonstrating arithmetic calculations using Bash scripting.
 
-### Find Me on :
-<p align="center">
-  <a href="https://github.com/ak47ak47" target="_blank"><img src="https://img.shields.io/badge/Github-technical--xl-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/technicalxl/" target="_blank"><img src="https://img.shields.io/badge/follow-technicalxl-red"></a>
-</p>
+## Project Details
 
+The script does the following:
 
-<!---
-ak47ak47/ak47ak47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Addition**: Calculates the sum of two numbers.
+- **Subtraction**: Computes the difference between two numbers.
+- **Multiplication**: Multiplies two numbers.
+- **Division**: Divides the first number by the second, with a check to prevent division by zero.
+- **Remainder**: Finds the remainder when dividing the first number by the second, with a check to prevent division by zero.
+- **Exponentiation**: Raises the first number to the power of the second number.
+
+## Getting Started
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ans-inayat/mathcity.git
+   
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd mathcity
+   
+3. **Make the Script Executable**:
+  ```bash
+   chmod +x mathcity.sh
+4. **Run the Script**:
+  ```bash
+   ./mathcity.sh
